@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy Joseph Sanchez
 
 Soy un desarrollador apasionado por la tecnología, el código limpio y la innovación. Me encanta aprender cosas nuevas, colaborar en proyectos interesantes y compartir conocimiento con la comunidad.
 
@@ -6,11 +6,12 @@ Soy un desarrollador apasionado por la tecnología, el código limpio y la innov
 
 ## 🚀 Sobre mí
 
-- 🎓 Formación: [Tu carrera o especialidad]
-- 💼 Trabajo actual: [Tu puesto y empresa]
-- 🌍 Ubicación: [Ciudad, País]
+- 🎓 Formación: 11vo. Informatica Programacion
+- 💼 Trabajo actual: Ninguno
+- 🌍 Ubicación: Cortes, Honduras]
 - 🧠 Intereses: Desarrollo web, inteligencia artificial, automatización, diseño UX/UI
-- 📫 Contacto: [Tu correo o redes sociales]
+- 📫 Contacto: elsanchezok@yahoo.com
+- 📸 Instagram: elsanchezok
 
 ---
 
@@ -102,10 +103,9 @@ Soy un desarrollador apasionado por la tecnología, el código limpio y la innov
 
 ## 🧩 Curiosidades
 
-- 🎮 Gamer ocasional (fan de Zelda y Hollow Knight)
+- 🎮 Gamer ocasional (fan de Asphalt 9 y Hollow Knight)
 - 📚 Amante de los libros de ciencia ficción
 - ☕ Café = productividad
-- 🐶 Tengo un perro llamado [Nombre]
 
 ---
 
