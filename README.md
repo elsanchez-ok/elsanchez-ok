@@ -63,7 +63,7 @@ Soy un desarrollador apasionado por la tecnología, el código limpio y la innov
 
 ## 📈 Estadísticas de GitHub
 
-![Tu nombre GitHub stats](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical)
+![elsanchez-ok GitHub stats](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuario&layout=compact&theme=radical)
 
 ---
